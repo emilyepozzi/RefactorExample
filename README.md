@@ -1,6 +1,5 @@
-# RefactorExample
-homework week 1 refactoring HTML CSS
-01 HTML CSS Git: Code Refactor
+1. HTML CSS Git Challenge: Code Refactor
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
 Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
@@ -25,7 +24,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-Review
+
+Review:
 You are required to submit the following for review:
 
 The URL of the deployed application.
