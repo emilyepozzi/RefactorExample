@@ -32,3 +32,6 @@ The URL of the deployed application.
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+ https://emilyepozzi.github.io/RefactorExample/
+
+![Horiseon Webpage Screenshot](Horiseon-website-capture.png "Optional Title")
