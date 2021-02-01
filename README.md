@@ -34,4 +34,3 @@ The URL of the GitHub repository. Give the repository a unique name and include 
 
  https://emilyepozzi.github.io/RefactorExample/
 
-![Horiseon Webpage Screenshot](Horiseon-website-capture.png "Optional Title")
