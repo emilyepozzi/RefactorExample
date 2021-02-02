@@ -26,7 +26,8 @@
 <br />THEN I find a concise, descriptive title
 
 ### Screenshot:
-<img alt="Horiseon Refactor Screenshot" src="./assets/images/Refactor-Screenshot.png" />
+![Horiseon Webpage Screenshot](/assets/images/Refactor-Screenshot.png "Horiseon Refactor Screenshot")
+
 
 
 ### Project Links:
