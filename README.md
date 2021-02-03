@@ -30,7 +30,7 @@
 
 ## Project Links:
 
-[Horiseon Website](Users/emilypozzi/Desktop/projects/RefactorExample/Develop/index.html "Horiseon Website Main") 
+[Horiseon Website](Users/emilypozzi/Desktop/projects/RefactorExample/Develop/index.html "Horiseon Website Main")
 
 [GitHub Repo](https://github.com/emilyepozzi/RefactorExample "GitHub Repo Main") 
 
