@@ -26,7 +26,7 @@
 <br />THEN I find a concise, descriptive title
 
 ## Screenshot:
-![Horiseon Webpage Screenshot](Develop/assets/images/Refactor-Screenshot.png)
+![Horiseon Webpage Screenshot](/assets/images/Refactor-Screenshot.png)
 
 ## Project Links:
 
