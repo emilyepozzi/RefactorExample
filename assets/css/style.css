@@ -1,3 +1,4 @@
+/* Generic styling for page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +9,16 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header Section */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* <header> section */
 
 header {
     padding: 20px;
@@ -42,19 +52,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* <header> end */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-
-/* styles for hero section  */
-
-p {
-    font-size: 16px;
-}
-
+/*hero styling section  */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,8 +63,15 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* hero styling end */
 
 /*style for content main section*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,12 +80,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* styles for benefits side section */
@@ -196,7 +197,7 @@ p {
     font-size: 36px;
 }
 
-/* Footer */
+/* <footer> styling section */
 footer {
     padding: 30px;
     clear: both;
@@ -207,3 +208,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* <footer> end */
